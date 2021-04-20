@@ -25,4 +25,7 @@ How to use the PDF QR Code Reader Plugin?
 6. Click on "ShowQRInfo"
 7. See message (the code needs to be finish here).  Please see "PDFQRCodeReader\Samples\RibbonElements\RibbonElements\ElementsProc.cpp" -> CElementsProc::OnQRGetInfoButtonProc
 
+Where can I find the APIs for Foxit PhantomPDF?
+You can find the API reference at "PDFQRCodeReader\Document\Foxit Reader PDF API Reference.pdf"
+
 For Support, please contact Huy_Tran@foxitsoftware.com
