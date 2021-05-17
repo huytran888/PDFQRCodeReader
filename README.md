@@ -2,6 +2,11 @@
 
 The PDF QR Code Reader Project is a project created for Foxit Student Challenge. This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see Prize info section below.
 
+## Challenges
+- [ ] Display the information of the select QR code.
+- [ ] Auto detect and display the QR code information
+- [ ] If link is in the QR code information, provide a link a PDF annotation of the QR code.
+
 ## How to build and run the project?
 1. Download and install Foxit PhantomPDF https://cdn06.foxitsoftware.com/pub/foxit/phantomPDF/desktop/win/10.x/10.1/en_us/FoxitPhantomPDF1011_enu_Setup_Website.msi
 2. Install Microsoft Visual Studio 2017
