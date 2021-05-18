@@ -2,7 +2,7 @@
 
 The PDF QR Code Reader Project is a project created for Foxit Student Challenge. This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see Prize info section below.
 
-## Challenges
+## Challenges (ToDo)
 - [ ] Display the information of the select QR code.
 - [ ] Auto detect and display the QR code information
 - [ ] If link is in the QR code information, provide a link a PDF annotation of the QR code.
@@ -22,6 +22,9 @@ The PDF QR Code Reader Project is a project created for Foxit Student Challenge.
 
 ## How to accept the challenge?
 E-mail Huy_Tran@foxitsoftware.com and indicate that you want to accept the challenge and how long you want the challenge to be saved for you to complete.
+
+## How to submit your completed challenge?
+Create a new Github Page and Request a submission from Huy_Tran@foxitsoftware.com
 
 ## Is this project currently saved by a active student challenger?
 No
@@ -61,6 +64,8 @@ You can your own challenge and also recieve a prize of completing the challenge 
 ## Are there other challenges? 
 Yes, here are the links to the others:
 
+PDF Scheduler Challenge: https://github.com/huytran888/PDFScheduler
+
 PDF Translator Challenge: https://github.com/huytran888/PDFTranslator
 
 ## Is the prize still available for this challenge?
@@ -68,4 +73,5 @@ Yes
 
 ## Project Leads:
 Huy Tran: https://www.linkedin.com/in/huy-tran-9ab02329
+
 Daniel Godfrey: https://www.linkedin.com/in/daniel-godfrey-876b83165/
