@@ -2,7 +2,7 @@
 
 The PDF QR Code Reader Project is a project created for Foxit Student Challenge. This is a starter project which has a lot of the code implimented and is waiting for a student to complete the Challenge. First Student to complete the challenge will recieve a prize, please see Prize info section below.
 
-## Challenges (ToDo)
+## How to complete this challenge? (ToDo)
 - [ ] Display the information of the select QR code.
 - [ ] Auto detect and display the QR code information
 - [ ] If link is in the QR code information, provide a link a PDF annotation of the QR code.
